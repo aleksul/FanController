@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name 350211-1)(type Legacy)(uri ${KIPRJMOD}/libs/350211-1.lib)(options "")(descr ""))
+  (lib (name 47053-1000)(type Legacy)(uri ${KIPRJMOD}/libs/47053-1000.lib)(options "")(descr ""))
+)
